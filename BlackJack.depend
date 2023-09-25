@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1505782070 source:c:\users\user_le6_41\desktop\blackjack\main.cpp
+	<iostream>
+
+1505782165 source:c:\users\user_le6_41\desktop\blackjack\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"pilha.h"
+	"carta.h"
+
+1505782139 c:\users\user_le6_41\desktop\blackjack\pilha.h
+	"carta.h"
+
+1505783681 c:\users\user_le6_41\desktop\blackjack\carta.h
+
+1505782512 source:c:\users\user_le6_41\desktop\blackjack\carta.cpp
+	<iostream>
+	<cstdlib>
+	"carta.h"
+
+1505853012 source:c:\users\m-12\downloads\blackjack\carta.cpp
+	<iostream>
+	<cstdlib>
+	"carta.h"
+
+1505852889 c:\users\m-12\downloads\blackjack\carta.h
+
+1505824443 source:c:\users\m-12\downloads\blackjack\pilha.cpp
+	<iostream>
+	<cstdlib>
+	"pilha.h"
+	"carta.h"
+
+1505824228 c:\users\m-12\downloads\blackjack\pilha.h
+	"carta.h"
+
+1505853081 source:c:\users\m-12\downloads\blackjack\main.cpp
+	<iostream>
+	"pilha.h"
+	"carta.h"
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
